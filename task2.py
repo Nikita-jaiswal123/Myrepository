@@ -5,4 +5,5 @@ c=0
 while n:
     n=n//10
     c+=1
+print("changes done")
 print("count of digits of given number is: ",c)
